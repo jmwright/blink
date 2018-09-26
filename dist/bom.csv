@@ -1,0 +1,6 @@
+Part Number,Name,Description,Quantity,Quantity Units,Notes
+B01,LED Resistor,"Through Hole Resistor, 220 ohm, MCF Series, 250 mW, ± 5%, Axial Leaded, 250 V",1,part,
+B02,USB Cable,USB Cable - Standard A-B - 3 ft/1m,1,part,Supporting new Arduino boards may require changing the type of USB cable.
+B03,Arduino board,Arduino Uno Rev 3,1,part,
+B04,LED,Any old red LED you have lying around,1,part,
+B05,Arduino Firmware,"Ardunio firmware that turns an LED on for one second, then off for one second, repeatedly.",1,seat,

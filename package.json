@@ -1,0 +1,8 @@
+{
+  "name": "blink",
+  "version": "1.0.0",
+  "description": "Turns an LED on for one second, then off for one second, repeatedly.",
+  "dependencies": {
+    "blink_firmware": https://github.com/m30-jrs/blink_firmware.git
+  }
+}

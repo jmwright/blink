@@ -1,0 +1,54 @@
+# Bill of Materials Data for blink
+parts:
+  resistor:
+    options:
+    - 220_ohm_resistor
+    default_option: 0
+    quantity: 1
+    quantity_units: part
+    name: LED resistor
+    notes: ''
+
+  usb_cable:
+    options:
+    - A_B_usb_cable
+    default_option: 0
+    quantity: 1
+    quantity_units: part
+    name: USB Cable
+    notes: Supporting new Arduino boards may require changing the type of USB cable.
+  
+  arduino:
+    options:
+    - arduino_101
+    - arduino_uno
+    default_option: 1
+    quantity: 1
+    quantity_units: part
+    name: Arduino board
+    notes: ''
+  
+  led:
+    options:
+    - red_led
+    default_option: 0
+    quantity: 1
+    quantity_units: part
+    name: LED
+    notes: ''
+  
+  firmware:
+    options:
+    - blink_firmware
+    default_option: 0
+    quantity: 1
+    quantity_units: seat
+    name: Arduino Firmware
+    notes: ''
+
+order:
+- resistor
+- usb_cable
+- arduino
+- led
+- firmware

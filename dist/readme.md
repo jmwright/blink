@@ -1,0 +1,1 @@
+This folder and its contents are not typically committed to a repository.  Included here to demonstrate Sliderule functionality.
